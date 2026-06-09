@@ -1,4 +1,5 @@
-hereon:
+name: maa
+on:
   push:
     branches:
       - main
